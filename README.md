@@ -6,7 +6,7 @@ Paper: https://aclanthology.org/2024.emnlp-main.1113/
 ### Setup
 Clone the repository:
 ```
-git clone https://github.com/joel-mire/story-perceptions.git
+git clone git@github.com:joel-mire/story-perceptions.git
 cd story-perceptions
 ```
 
